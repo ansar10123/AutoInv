@@ -1,0 +1,2 @@
+# The message sent to a player when they try to mine a block but their inventory is full.
+inventory-full-message: "§cYour inventory is full! Please make space."

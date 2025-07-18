@@ -1,0 +1,20 @@
+name: AutoInventory
+version: 1.1.0
+main: autoinv\Main
+api: 5.0.0
+author: YourName
+description: Automatically adds block drops to a player's inventory, preventing ground clutter.
+
+permissions:
+  autoinventory.use:
+    description: "Allows the user to have block drops go directly into their inventory."
+    default: true
+  autoinventory.command.reload:
+    description: "Allows the user to reload the AutoInventory configuration."
+    default: op
+
+commands:
+  autoinventory:
+    description: "AutoInventory main command."
+    aliases: [autoinv]
+    permission: autoinventory.command.reload
