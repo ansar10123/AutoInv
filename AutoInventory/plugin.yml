@@ -2,7 +2,7 @@ name: AutoInventory
 version: 1.1.0
 main: autoinv\Main
 api: 5.0.0
-author: YourName
+author: Ansarrr
 description: Automatically adds block drops to a player's inventory, preventing ground clutter.
 
 permissions:
