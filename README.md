@@ -1,1 +1,1 @@
-A robust AutoInventory plugin for PocketMine-MP, designed for high performance and absolute stability. Features include direct-to-inventory drops, full inventory detection, configurable messages, and fine-grained permission control. Its core design prevents item duplication bugs by using fail-safe logic: ground drops are cancelled before items are added to the inventory, guaranteeing that items can never be duplicated, even during server lag or crashes.
+A robust AutoInventory plugin for PocketMine-MP, designed for high performance and absolute stability. 
